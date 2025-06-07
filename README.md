@@ -1,3 +1,0 @@
-# RAM
-
-Hello, World!
